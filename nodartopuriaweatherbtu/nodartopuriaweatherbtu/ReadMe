@@ -1,0 +1,5 @@
+#1  @Path("/weather")
+    http://localhost:8080/nodartopuriaweatherbtu-1.0-SNAPSHOT/api/weather
+
+#2  @Path("/weather/{city}")
+    http://localhost:8080/nodartopuriaweatherbtu-1.0-SNAPSHOT/api/weather/tbilisi
